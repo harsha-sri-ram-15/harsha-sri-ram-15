@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsha-sri-ram-15
 - 👀 I’m interested in Machine Learning and Web development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently practising DSA
 - 💞️ I’m looking to collaborate on Real-Time Projects
 - 📫 How to reach me ... 21cs01055@iitbbs.ac.in
 
